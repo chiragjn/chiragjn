@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning a new language (Rust 🦀), asyncio, game dev, etc
 - 👯 I’m looking to collaborate on anything Python, NLP or MLops related
 
+### Links
+
+[LinkedIn](https://linkedin.com/in/chiragjn)
