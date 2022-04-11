@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NLU and Engineering tasks at [@hellohaptik](https://github.com/hellohaptik)
-- 🌱 I’m currently learning a new language (Rust 🦀), asyncio, game dev, etc
+- 🔭 I’m currently working on MLOps and Engineering tasks at [@truefoundry](https://github.com/truefoundry)
+- 🌱 I’m currently learning more Rust 🦀, basics of Recommender Systems, Computer Vision and Reinforcement Learning etc
 - 👯 I’m looking to collaborate on anything Python, NLP or MLOps related
 
 ### Links
